@@ -11,6 +11,9 @@
     <modules>
         <module>jdbc</module>
         <module>socket</module>
+        <module>jvm</module>
+        <module>test</module>
+        <module>Design_pattern</module>
     </modules>
 
 
