@@ -9,19 +9,11 @@
         <module name="Design_pattern" />
         <module name="jdbc" />
         <module name="jvm" />
+        <module name="MR" />
         <module name="socket" />
         <module name="test" />
-        <module name="thread" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8">
-      <module name="Design_pattern" target="1.6" />
-      <module name="javatest" target="1.5" />
-      <module name="jdbc" target="1.5" />
-      <module name="jvm" target="1.5" />
-      <module name="socket" target="1.5" />
-      <module name="test" target="1.6" />
-      <module name="thread" target="1.6" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="7" />
   </component>
 </project>
